@@ -1,3 +1,3 @@
 ```
-this is the ui of raffle contract usong next js.
+this is the ui of raffle contract using next js.
 ```
